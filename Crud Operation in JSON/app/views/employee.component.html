@@ -1,0 +1,9 @@
+<h1>Employee List</h1>
+<ul>
+<li 
+ *ngFor="let  emp  of emps" 
+ (click) = "onSelect(emp)">
+<kbd>{{emp.name}}</kbd>
+<kbd>{{emp.city}}</kbd>
+    </li>
+</ul>

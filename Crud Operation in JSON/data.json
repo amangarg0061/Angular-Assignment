@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "name": "praveen",
+      "age": "22",
+      "address": "hubli",
+      "id": 6
+    },
+    {
+      "name": "pradeep",
+      "age": "22",
+      "address": "mangalore",
+      "id": 7
+    },
+    {
+      "name": "uday",
+      "age": "22",
+      "address": "mysore",
+      "id": 8
+    },
+    {
+      "name": "sudheer",
+      "age": "22",
+      "address": "chennai",
+      "id": 9
+    },
+    {
+      "name": "sanjay",
+      "age": "25",
+      "address": "mathura",
+      "id": 10
+    }
+  ]
+}
